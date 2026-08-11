@@ -10,7 +10,7 @@
 
 class Tuipr < Formula
   desc "A keyboard-driven Pull Request Lifecycle Manager for your terminal"
-  homepage "https://github.com/drkjavier/tuipr"
+  homepage "https://github.com/cortezramos/tuipr"
   version "0.1.0"
   license "MIT"
 
